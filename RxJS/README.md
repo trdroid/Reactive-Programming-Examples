@@ -11,6 +11,6 @@ are referred to as *operators*.
 
 *Operators* are available for use on 
 
-* the static *Rx.Observable* object
+* the static *Rx.Observable* object &
 * the *Observable* instances
 
