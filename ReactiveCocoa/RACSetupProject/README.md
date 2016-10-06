@@ -126,3 +126,15 @@ Resolving deltas: 100% (251/251), done.
 Checking connectivity... done.
 Submodule path 'ReactiveCocoa/Carthage/Checkouts/xcconfigs': checked out '3d9d99634cae6d586e272543d527681283b33eb0'
 ```
+
+**Drag and drop xcodeproj files**
+
+![](_misc/Dragging%20and%20dropping%20xcodeproj%20files.png)
+
+![](_misc/Click%20on%20the%20plus%20button%20to%20add%20frameworks%20to%20embedded%20binaries.png)
+
+![](_misc/Selecting%20frameworks%20to%20add%20to%20Embedded%20Binaries%20section.png)
+
+![](_misc/After%20selecting%20frameworks.png)
+
+![](_misc/ReactiveCocoa%20module%20not%20found.png)
