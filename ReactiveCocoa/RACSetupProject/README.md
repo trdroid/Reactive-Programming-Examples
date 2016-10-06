@@ -1,5 +1,9 @@
 ### Creating the project
 
+macOS Sierra Version 10.12 (16A323)
+
+Xcode Version 8.0 (8A218a)
+
 The instructions specified at https://github.com/ReactiveCocoa/ReactiveCocoa are
 
 ```
@@ -131,10 +135,14 @@ Submodule path 'ReactiveCocoa/Carthage/Checkouts/xcconfigs': checked out '3d9d99
 
 ![](_misc/Dragging%20and%20dropping%20xcodeproj%20files.png)
 
+**Adding frameworks**
+
 ![](_misc/Click%20on%20the%20plus%20button%20to%20add%20frameworks%20to%20embedded%20binaries.png)
 
 ![](_misc/Selecting%20frameworks%20to%20add%20to%20Embedded%20Binaries%20section.png)
 
 ![](_misc/After%20selecting%20frameworks.png)
+
+**Unable to find ReactiveCocoa module**
 
 ![](_misc/ReactiveCocoa%20module%20not%20found.png)
